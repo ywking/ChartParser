@@ -77,4 +77,4 @@ def result_ocr(imgpath):
 
 if __name__=="__main__":
 
-    print(result_ocr('/root/data1/YOLOP/ChartOCR512x512/ori/val/1076.png'))
+    print(result_ocr('ChartOCR512x512/ori/val/1076.png'))
