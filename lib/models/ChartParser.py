@@ -657,7 +657,7 @@ if __name__ == "__main__":
     from torchvision import transforms
     import cv2
     model = get_net2(False)
-    img = cv2.imread('/root/data1/YOLOP/Chart2019512x512/image/val/0.png')
+    img = cv2.imread('Chart2019512x512/image/val/0.png')
     print(model)
     # img = transforms.ToTensor()(img)
     # img = transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])(img).unsqueeze(0)
