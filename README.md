@@ -11,7 +11,7 @@
 
 
 ### weight
-- [x] [ChartParsing](https://drive.google.com/file/d/1bnuHyExM6JagB1caRfLVr20vef4nesi9/view?usp=sharing)
+- [x] [ChartParsing](https://drive.google.com/file/d/1P8i5cR8pr9ncKjaIzksrnViRZje6zf6C/view?usp=sharing)
 
 ### Visualization
 
