@@ -159,6 +159,9 @@ python tools/demo.py --source inference/images
 ## Citation
 
 If you find our paper and code useful for your research, please consider giving a star :star:   and citation :pencil: :
+
+
+```bibtex
 @inproceedings{yang2025ai,
   title={AI-ChartParser: A Method For Extracting Experimental Data From Curve Charts in Academic Papers},
   author={Yang, Wenjin and He, Jie and Zhang, Xiaotong and Gong, Haiyan},
@@ -167,5 +170,4 @@ If you find our paper and code useful for your research, please consider giving 
   year={2025},
   organization={Wiley Online Library}
 }
-
 
